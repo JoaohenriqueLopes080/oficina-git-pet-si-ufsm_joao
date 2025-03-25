@@ -19,7 +19,7 @@
 - Use o comando `git diff` para verificar quais foram as alterações feitas em da cada um dos arquivos modificados em seu repositório.
 
 ### 3.2 Boas práticas 
-- Para cada dado do item anterior que você inserir, faça um `commit` seguindo essas [boas práticas](https://github.com/sampaiodias/git-boas-praticas?tab=readme-ov-file#commit). 
+- Para cada dado do item anterior que você inserir, faça um `commit` seguindo essas [boas práticas](<https://github.com/sampaiodias/git-boas-praticas?tab=readme-ov-file#commit>). 
 Ou seja, quando adicionar as "Matérias favoritas", faça um `commit` (que envolve fazer o `add` antes). Isso também serve para os demais intens.
 
 
