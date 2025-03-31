@@ -16,3 +16,11 @@
     ! uma vez no mes eu corro cerca de 25 a 30km num unico dia, maluco
     ! ja fui atropelado.
     
+- Ano que ingressou no curso:
+  ! 2021 - CTISM. T.I
+  ! 2025 - UFSM - S.I
+
+- Primeiras impressões sobre a universidade:
+  ! A universidade é muito acolhedora e cheia de oportunidades.
+  ! vou estar aqui a 4 anos, posso dizer que é bem de boa.
+  ! tem muita gente esquisita, mas a gente convive.
